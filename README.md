@@ -26,5 +26,5 @@
     <a href="https://www.linkedin.com/in/radija-oliveira-954053191/" target-"_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="https://www.instagram.com/radija_mirelle/" target-"_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href="https://discord.com/channels/@me/728345695391580292" target-"_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    <img height="55" src="https://media.discordapp.net/attachments/763174488204247101/952389972848177162/gif2.png" aling="middle" > 
+    <img height="20px" widht="10%" src="https://media.discordapp.net/attachments/763174488204247101/952389972848177162/gif2.png" aling="middle" > 
   </div>
