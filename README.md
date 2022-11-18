@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Radija 👋
 
-- 📚 Estudando atualmente a linguagem Java.
-- 📖 Estudando também HTML, CSS e PHP.
-- 📩 Contate-me no email: radijamirelle10@gmail.com
+- 📚 Atualmente estudando...
 
 <div>
   <a href-"https://github.com/radijaa">
